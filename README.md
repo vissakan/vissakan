@@ -6,9 +6,6 @@
 I build practical software systems across **backend engineering, full-stack development, AI/ML, and cloud technologies**.
 
 <p>
-  <a href="https://github.com/vissakan">
-    <img src="https://img.shields.io/badge/GitHub-vissakan-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
