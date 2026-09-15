@@ -162,22 +162,6 @@ The backend is built with **Spring Boot** and **Spring Security**, the frontend 
 
 ---
 
-# 🎯 Current Focus
-
-```text
-Software Engineering
-       ↙        ↘
-Backend / APIs    AI / ML
-       ↓            ↓
-Java + Spring     Python + ML
-       ↘            ↙
-       Cloud + DevOps
-```
-
-I am focused on building projects that demonstrate **real engineering skills** across both software development and AI/ML, rather than tutorial-level implementations.
-
----
-
 # 📌 More Projects
 
 You can find additional experiments, learning projects, and development work in my repositories.
