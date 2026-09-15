@@ -159,26 +159,6 @@ The backend is built with **Spring Boot** and **Spring Security**, the frontend 
 
 ---
 
-# 📌 More Projects
-
-You can find additional experiments, learning projects, and development work in my repositories.
-
-👉 **[Explore all repositories →](https://github.com/vissakan?tab=repositories)**
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/vissakan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
-
----
 
 <div align="center">
 
