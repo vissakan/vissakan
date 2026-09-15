@@ -2,7 +2,6 @@
 
 # Hi, I'm Vissakan V 👋
 
-### Software Engineer | Backend Development | AI/ML | Cloud & DevOps
 
 I build practical software systems across **backend engineering, full-stack development, AI/ML, and cloud technologies**.
 
